@@ -71,3 +71,9 @@ The simulation drives the FSM through realistic event transitions using the foll
 ✅ Waveform visualization via GTKWave
 
 ✅ Designed with BLE power constraints in mind
+
+
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
