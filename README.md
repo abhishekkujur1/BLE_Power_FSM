@@ -38,6 +38,7 @@ gtkwave waves.vcd
 ```
 
 📊 Simulation Results
+![GTKWave Screenshot](docs/waveform/simulation_waveform.png)  
 
 
 ## 📊 Power State Definitions
