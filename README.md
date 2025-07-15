@@ -1,6 +1,6 @@
 # 🔋 BLE SoC Power Controller FSM
 
-![State Diagram](docs/state_diagram.png)  
+![State Diagram](docs/fsm1.png)  
 *Power state transition diagram*
 
 A Verilog implementation of a power management finite state machine for Bluetooth Low Energy (BLE) SoCs, featuring four optimized power states.
