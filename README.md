@@ -37,6 +37,9 @@ vvp sim.out
 gtkwave waves.vcd
 ```
 
+📊 Simulation Results
+
+
 ## 📊 Power State Definitions
 
 | State       | Current Draw | Wakeup Time | Description                              |
