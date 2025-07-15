@@ -37,7 +37,7 @@ vvp sim.out
 gtkwave waves.vcd
 ```
 
-📊 Simulation Results
+## 📊 Simulation Results
 ![GTKWave Screenshot](docs/waveform/simulation_waveform.png)  
 
 
