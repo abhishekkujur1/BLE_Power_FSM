@@ -71,7 +71,7 @@ Waveform output confirms:
 - Shift to `ACTIVE` on `rad_req`
 - Timeout return to `DEEPSLEEP`
 
-See: [`waveforms/simulation.png`](../waveform/simulation_waveform.png)
+See: [`waveforms/simulation.png`](../docs/waveform/simulation_waveform.png)
 
 ---
 
