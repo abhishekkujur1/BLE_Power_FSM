@@ -93,6 +93,5 @@ See: [`waveforms/simulation.png`](../docs/waveform/simulation_waveform.png)
 
 ## 10. Author
 
-**Your Name**  
-[LinkedIn](https://linkedin.com/in/YOURUSERNAME)  
-[Email](mailto:you@example.com)
+**Abhishek Kujur**  
+[Email](mailto:abhishekkujur@gmail.com)
